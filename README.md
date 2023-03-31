@@ -19,6 +19,6 @@ I'm currently working on Blockchain applications that deal with both uploading t
 [![](https://gtce.itsvg.in/api?username=HansMattunda)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hanslema&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
